@@ -7,6 +7,8 @@ template = "blog.html"
 
 # This is title
 
+<!-- more -->
+
 **This is bold**
 
 _This is italic_
